@@ -1,5 +1,5 @@
 # ESP8266 ZeroTwo Massive Deauther
-🟩⬜🟥<br></br>
+🟩⬜🟥<br>
 <b>ESP8266 WiFi Desautenticador Masivo, con pantalla Oled (Y tiene a la waifu zero two😉)</b><br>
 
 <p><i><b>Funcionamiento</i></b>:
@@ -21,6 +21,16 @@
 <br>╟ ●Tiene a la waifu ZeroTwo
 <br>╚═══════════════════════════════╝
 <br>
-<p><i><b>Armado</i></b>:
+<i><b>Armado</b></i>:
   <br>╔═══════════════════════════════╗</br>
+  <br>╟ ● TABLA DE PINES: </br>
+  
 [![imagen-2022-12-15-160141421.png](https://i.postimg.cc/nV5w8Xyd/imagen-2022-12-15-160141421.png)](https://postimg.cc/fkcvmRTX)
+
+  <br>╟ ● EJEMPLO DE ARMADO: </br>
+
+[![Sin-t-tulo-2.png](https://i.postimg.cc/W4yjQNT0/Sin-t-tulo-2.png)](https://postimg.cc/GBvZD1Bp)
+
+  <br>╟ ● Es todo, es muy sencillo </br>
+<br>╚═══════════════════════════════╝</br>
+
