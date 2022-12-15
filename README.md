@@ -12,17 +12,17 @@
 <br>╚═══════════════════════════════════════════════════════════════════╝
 <br>
 <p><i><b>Caracteristicas</i></b>:
-<br>╔═══════════════════════════════╗
+<br>╔═══════════════════════════╗
 <br><i>╟ ●Pantalla OLED para ver el estado en tiempo real
 <br>╟ ●Armado sencillo
 <br>╟ ●Tira todas las redes wifi disponibles a su alcance
 <br>╟ ●Efectivo para todos los dispositivos
 <br>╟ ●Solo funciona con redes 2.4ghz NO funciona con 5ghz
 <br>╟ ●Tiene a la waifu ZeroTwo
-<br>╚═══════════════════════════════╝
+<br>╚═══════════════════════════╝
 <br>
 <i><b>Armado</b></i>:
-  <br>╔═══════════════════════════════╗</br>
+  <br>╔═══════════════════════════╗</br>
   <br>╟ ● TABLA DE PINES: </br>
   
 [![imagen-2022-12-15-160141421.png](https://i.postimg.cc/nV5w8Xyd/imagen-2022-12-15-160141421.png)](https://postimg.cc/fkcvmRTX)
@@ -32,5 +32,5 @@
 [![Sin-t-tulo-2.png](https://i.postimg.cc/W4yjQNT0/Sin-t-tulo-2.png)](https://postimg.cc/GBvZD1Bp)
 
   <br>╟ ● Es todo, es muy sencillo </br>
-<br>╚═══════════════════════════════╝</br>
+<br>╚═══════════════════════════╝</br>
 
