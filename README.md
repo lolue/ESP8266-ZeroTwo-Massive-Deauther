@@ -34,3 +34,8 @@
   <br>╟ ● Es todo, es muy sencillo </br>
 <br>╚══════════════════════════╝</br>
 
+Deslinde de responsabilidad
+Este proyecto no tiene fines de lucro, el creador de este proyecto se deslinda de cualquie responsabilidad,
+el uso que se empleará  sera unicamente de manera educativa.
+
+
