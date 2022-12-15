@@ -24,4 +24,4 @@
 <br>
 <p><i><b>Armado</i></b>:
 <br>╔═══════════════════════════════╗
-[![imagen-2022-12-15-160141421.png](https://i.postimg.cc/nV5w8Xyd/imagen-2022-12-15-160141421.png)](https://postimg.cc/fkcvmRTX)
+
